@@ -1,0 +1,6 @@
+# Energieverbrauch IT
+
+Für die Erstellung einer E-Mail wird ein Endgerät (Computer, Tablet, Smartphone) verwendet. Diese Geräte verbrauchen dabei Strom (die Energiekosten für Produktion, Handel und den Lieferweg bis zum Verbraucher nicht eingerechnet). Beim Versenden wird die E-Mail nachfolgend über verschiedene Server, Router und Switche übermittelt, um zum Empfänger zu gelangen. Auch diese Geräte verbrauchen Strom - ebenso wie die Kommunikation zwischen ihnen (Wasser zur Kühlung nicht eingerechnet). Der Empfänger liest die E-Mail wiederum auf einem Endgerät, das ebenfalls Strom verbraucht.
+Vor allem aber bleibt die E-Mail in den allermeisten Fällen ungenutzt auf einem Server liegen und ist in dieser Form für einen ständigen Stromverbrauch verantwortlich. Die Umweltbelastung, die allein durch die Bereitstellung nicht (mehr) benötigter Daten entsteht, wird als "ruhende Umweltverschmutzung" (Dark Data) bezeichnet.
+
+Im Vergleich zum klassischen Brief ist der ökologische Fußabdruck einer E-Mail um den Faktor 60 kleiner. Aber: Die Anzahl der heute versendeten E-Mails ist deutlich höher, übersteigt den ökologischen Einspareffekt bei weitem und wirkt sich letztlich sogar negativ auf die Umwelt aus, was als Rebound-Effekt bezeichnet wird

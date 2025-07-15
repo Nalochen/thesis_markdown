@@ -1,0 +1,4 @@
+# What is code obfuscation and how does it work?
+
+- Applikation schwierig oder unmöglich zu decompile oder disassemble und den retrieved Applikationscode schwieriger für Menschen zu lesen
+    - Ziel: Mobile Applications können reverse Engineered werden, was es Hackern ermöglich den eigenen Code zu lesen + Analysieren und interlectual property klauen + applikationen klonene, sensible informatioen extrahieren + credentials sammeln (z.B. wertvolle interlektuelle Property klauen (z.B. custom Algorithmen), Atuhentifizierungsmechanismen, in-app payment mechanismen, keys (API keys, hardcoded encyrption keys, etc.) credentials (database passwords etc.), the logic behind server communication), vulnerabilities indentiifizieren, schadsoftware zu apps hinzufügen und wieder compilieren
